@@ -15,8 +15,8 @@
 ### 🌱 학습
 
 - _매일 [백준 or 프로그래머스] 문제를 풀고 있습니다._
-  - [백준](https://github.com/rustandbone/Algorithm) Silver 2
-  - [프로그래머스](https://github.com/rustandbone/Algorithm) Lv.2
+  - [백준](https://github.com/rustandbone/Algorithm) Silver I
+  - [프로그래머스](https://github.com/rustandbone/Algorithm) Lv.1,2
   - [프로그래머스 Lv.0,1](https://github.com/rustandbone/codingTest)
 - [자바스크립트 100일 미니 프로젝트](https://github.com/rustandbone/JS100)를 진행하고 있습니다.
 
@@ -27,7 +27,7 @@
 
 ### 📚 스터디
 
-_스터디 모임 일정과 담당 파트는 각 레포지토리 Wiki에 기록되어 있습니다._
+_스터디 모임 일정과 담당 파트는 각 리포지토리 Wiki에 기록되어 있습니다._
 
 - [2024.01~04] [《리액트 공식 문서 깨기》](https://github.com/rustandbone/react-deep-dive)
 - [2024.01~03] [《프로가 되기 위한 타입스크립트 프로그래밍 입문》](https://github.com/rustandbone/mtsStudy)
