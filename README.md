@@ -4,10 +4,12 @@
 
 ### 🛠 기술 스택
 
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img alt="tailwind" src ="https://img.shields.io/badge/Tailwind-06B6D4.svg?&style=for-the-badge&logo=tailwindCSS&logoColor=white"/><img alt="SASS" src ="https://img.shields.io/badge/SASS-cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img alt="tailwind" src ="https://img.shields.io/badge/Tailwind-06B6D4.svg?&style=for-the-badge&logo=tailwindCSS&logoColor=white"/><img alt="emotion" src="https://img.shields.io/badge/👩‍🎤 EMOTION-db7093?style=for-the-badge&logo=Emotion&logoColor=white"/><img alt="SASS" src ="https://img.shields.io/badge/SASS-cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 ### 🌊 프로젝트
 
+- [2024.5] [당일말씀\_Next.js/TypeScript 프로젝트](https://github.com/rustandbone/theWordToday) + [배포](https://the-word-today.vercel.app/)
+- [2024.1~5] [I write you_React/TypeScript 프로젝트](https://github.com/likelion-plus/i-write-you) + [배포](https://likelion-plus.github.io/i-write-you/)
 - [2023.11~12] [별,해달\_React/TypeScript 프로젝트](https://github.com/likelion-plus/counting-stars-13) + [배포](https://counting-stars.netlify.app/)
 - [2023.9] [Jeju All in One_React 프로젝트](https://github.com/FRONTENDSCHOOL6/finalize-react-6) + [배포](https://frontendschool6.github.io/finalize-react-6/)
 - [2023.8] [TAING 반응형 웹페이지\_JavaScript 프로젝트](https://github.com/javascript-project-3/project-JS-3) + [배포](https://javascript-project-3.github.io/project-JS-3/client/index.html)
